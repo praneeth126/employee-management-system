@@ -106,7 +106,7 @@ CREATE TABLE IF NOT EXISTS employee (
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/praneeth126/My-Portfolio.git
+git clone https://github.com/praneeth126/employee-management-system.git
 cd employee-management-system
 ```
 
